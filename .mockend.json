@@ -1,1 +1,8 @@
-[ { "name": "Loki" }, { "name": "Loki" }, { "name": "Thor" }]
+{
+  "name": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
+  }
+}
