@@ -1,4 +1,5 @@
 {
+  products:[
   {
       "id": 1,
       "name": "T-Shirt Summer Vibes",
@@ -27,4 +28,5 @@
       "discount": 0,
       "avatar": "assets/images/item4.png",
     },
+    ]
 }
